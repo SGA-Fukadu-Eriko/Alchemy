@@ -1,4 +1,3 @@
-# Alchemy
 <html>
 <head>
 <title>AlchemyAPI サンプル</title>
